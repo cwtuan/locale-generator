@@ -1,0 +1,8 @@
+
+# The input file should be *.xlsx. Use double backward slash ("\\") for path separator in Windows
+
+inputFile=.\\locale-sample.xlsx
+outputDirectory=.\\lang
+
+removeInputFileOnComplete=false
+unicode=false
