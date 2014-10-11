@@ -2,8 +2,8 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>locale-generator</groupId>
 	<artifactId>locale-generator</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>i18nparser</name>
+	<version>1.0</version>
+	<name>locale-generator</name>
 	<dependencies>
 		<dependency>
 			<groupId>org.apache.poi</groupId>
@@ -26,4 +26,9 @@
 			<version>3.1</version>
 		</dependency>
 	</dependencies>
+	<url>https://github.com/cwtuan/locale-generator</url>
+	<description>Converters a Google spreadsheet to each locale files.</description>
+	<organization>
+		<name>code.tonytuan.org</name>
+	</organization>
 </project>

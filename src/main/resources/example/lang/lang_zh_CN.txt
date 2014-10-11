@@ -1,0 +1,11 @@
+common.tuesday=星期二
+common.wednesday=星期三
+common.thursday=星期四
+common.friday=星期五
+common.saturday=星期六
+common.sunday=星期日
+project.mgt=项目管理 
+project.create=新建项目 
+project.delete=删除项目 
+project.delete.confirm=您确定要删除项目{0}？ 
+project.edit=编辑项目

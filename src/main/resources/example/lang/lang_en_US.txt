@@ -1,0 +1,11 @@
+common.tuesday=Tuesday
+common.wednesday=Wednesday
+common.thursday=Thursday
+common.friday=Friday
+common.saturday=Saturday
+common.sunday=Sunday
+project.mgt=Project Management
+project.create=New Project
+project.delete=Delete Project
+project.delete.confirm=Are you sure to delete the project {0}?
+project.edit=Edit Project
