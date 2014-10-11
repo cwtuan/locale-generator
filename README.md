@@ -7,15 +7,17 @@ One of the best way to resolve this problem is to manage these key-value pairs i
 ![Google spreadsheet to locale files image](http://cwtuan.github.io/locale-generator/google-doc-2-locales.jpg "Google spreadsheet to locale files")
 
 ## Usage 
-1. Download [LocaleGenerator.zip](http://cwtuan.github.io/locale-generator/LocaleGenerator.zip).
-* Open the <a href="http://goo.gl/9498aW" target="_blank">Google Spreadsheet sample</a> 
-* Follow the steps:
+1. Open the <a href="http://goo.gl/9498aW" target="_blank">Google Spreadsheet sample</a>. Then **File** -> **Download as** -> **Microsoft Excel (.xlsx)** 
+* Download [LocaleGenerator.zip](http://cwtuan.github.io/locale-generator/LocaleGenerator.zip) and extract it.
+* Modify **inputFile** and **outputDirectory** in **config.txt**.
+* Execute **RunLocaleGenerator.bat**.
 
 ## Config.txt
-* **inputFile**: The path of input file (i.e., locale-sample.xlsx)
-* **outputDirectory**: The path of output directory for locale files 
-* **removeInputFileOnComplete**: If *true*, remove input file when program end.
-* **unicode**: If *true*, generate output locale files in Unicode format. Java application usually use Unicode format. Web application doesn't.
+* **inputFile**: The path of Microsoft Excel (.xlsx) file.     
+  (Please use double backward slash for path separator in Windows. Example: C:\\\\myApp\\\\locale-sample.xlsx)
+* **outputDirectory**: The path of output directory for locale files. 
+* **removeInputFileOnComplete**: If *true*, remove the input file when program end.
+* **unicode**: If *true*, generate the output locale files in Unicode format. Java application usually use Unicode format. Web application doesn't.
 
 ## Further Reading
 For web developer, you can use <a href="https://github.com/cwtuan/Locale.js" target="_blank">Locale.js</a> to localizate (i18n) your web app by using the output of Locale-generator.
