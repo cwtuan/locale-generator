@@ -6,16 +6,12 @@ One of the best way to resolve this problem is to manage these key-value pairs i
 
 ![Google spreadsheet to locale files image](http://cwtuan.github.io/locale-generator/google-doc-2-locales.jpg "Google spreadsheet to locale files")
 
-## Usage 
+## Usage (<a href="https://www.youtube.com/watch?v=bvokogquocQ" target="_blank">Youtube Demo</a>) 
 1. Open the <a href="http://goo.gl/9498aW" target="_blank">Google Spreadsheet sample</a>. Then **File** -> **Download as** -> **Microsoft Excel (.xlsx)** 
 * Download [LocaleGenerator.zip](http://cwtuan.github.io/locale-generator/LocaleGenerator.zip) and extract it.
 * Modify **inputFile** and **outputDirectory** in **config.txt**.
 * Execute **RunLocaleGenerator.bat**.
- 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=bvokogquocQ
-" target="_blank"><img src="http://img.youtube.com/vi/bvokogquocQ/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
- 
+
 
 ## Config.txt
 * **inputFile**: The path of Microsoft Excel (.xlsx) file.     
