@@ -12,10 +12,12 @@ One of the best way to resolve this problem is to manage these key-value pairs i
 * Modify **inputFile** and **outputDirectory** in **config.txt**.
 * Execute **RunLocaleGenerator.bat**.
 
+<iframe width="480" height="360" src="//www.youtube.com/embed/bvokogquocQ" frameborder="0" allowfullscreen></iframe>
+
 ## Config.txt
 * **inputFile**: The path of Microsoft Excel (.xlsx) file.     
   (Please use double backward slash for path separator in Windows. Example: C:\\\\myApp\\\\locale-sample.xlsx)
-* **outputDirectory**: The path of output directory for locale files. 
+* **outputDirectory**: T<iframe width="480" height="360" src="//www.youtube.com/embed/bvokogquocQ" frameborder="0" allowfullscreen></iframe>he path of output directory for locale files. 
 * **removeInputFileOnComplete**: If *true*, remove the input file when program end.
 * **unicode**: If *true*, generate the output locale files in Unicode format. Java application usually use Unicode format. Web application doesn't.
 
