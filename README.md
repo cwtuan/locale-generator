@@ -11,8 +11,11 @@ One of the best way to resolve this problem is to manage these key-value pairs i
 * Download [LocaleGenerator.zip](http://cwtuan.github.io/locale-generator/LocaleGenerator.zip) and extract it.
 * Modify **inputFile** and **outputDirectory** in **config.txt**.
 * Execute **RunLocaleGenerator.bat**.
-
-<iframe width="480" height="360" src="//www.youtube.com/embed/bvokogquocQ" frameborder="0" allowfullscreen></iframe>
+ 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=bvokogquocQ
+" target="_blank"><img src="http://img.youtube.com/vi/bvokogquocQ/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+ 
 
 ## Config.txt
 * **inputFile**: The path of Microsoft Excel (.xlsx) file.     
